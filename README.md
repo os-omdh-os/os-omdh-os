@@ -8,3 +8,15 @@
 [![Followers](https://img.shields.io/github/followers/os-omdh-os?style=for-the-badge&color=00F7FF)](https://github.com/os-omdh-os)
 
 </div>
+# 🖥️ SYSTEM.INFO
+
+```bash
+> whoami
+
+Name        : Osama Al-Moliki
+Role        : Full Stack IT Engineer
+Location    : Sana'a, Yemen
+Speciality  : Backend Architecture & Secure Software Engineering
+Focus       : System Design, APIs, Infrastructure & Cybersecurity
+Mission     : Architecting technology that is secure, scalable, and impactful.
+```
